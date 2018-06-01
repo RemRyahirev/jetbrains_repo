@@ -1,0 +1,16 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="RunJsbtTask" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+</keymap>
