@@ -1,0 +1,7 @@
+<templateSet group="Misc">
+  <template name="crb" value="export default createBundle([&#10;    $END${&#10;        name: '',&#10;        components: {&#10;            &#10;        },&#10;        stores: [&#10;            &#10;        ],&#10;        actions: [],&#10;    }&#10;]);" description="createBundle Template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
