@@ -1,6 +1,7 @@
 <application>
   <component name="Vcs.Log.Big.Repositories">
     <option name="REPOSITORIES">
+      <repository path="C:/Work/repos/pw" />
       <repository path="C:/Work/repos/tinkoff-portal-web" />
     </option>
   </component>
